@@ -23,8 +23,15 @@ years to switch their application over to Dwoo progressively.
 
 Documentation
 =============
-Dwoo's website to get the latest version is at http://dwoo.org/   
-The wiki/documentation pages are available at http://dwoo.org/documentation/
+~~Dwoo's website to get the latest version is at http://dwoo.org/~~   
+~~The wiki/documentation pages are available at http://dwoo.org/documentation/~~   
+These Pages aren't working anymore, so here is a small collection of the most important pages:
+- [Getting started](/doc/getting-started.md)
+- [Dwoo for Designers](/doc/dwoo-for-designers.md)
+- [Dwoo for Developers](/doc/dwoo-for-developers.md)
+
+Or all the pages in the Documentation in the [WayBackMachine](http://web.archive.org/web/20180726013016/http://dwoo.org/documentation/v1.3/index.html)  
+
 
 Requirements
 ------------
