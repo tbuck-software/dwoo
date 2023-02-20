@@ -89,8 +89,8 @@ Default allowed PHP functions are:
 
 To use a PHP function within your template, you can use them like the next examples:
 ```php
-{number_format $foo 2 "," " "}
-{str_repeat "-=" 10}
+{number_format($foo 2 "," " ")}
+{str_repeat("-=" 10)}
 ```
 ## Named Arguments
 Using named arguments makes your templates more explicit about the meaning of the values you pass as arguments:
